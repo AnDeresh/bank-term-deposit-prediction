@@ -1,12 +1,12 @@
 # Bank Term Deposit Prediction
 
 ## Project Overview
-**bank-term-deposit-prediction** is a project focused on building a machine learning model to predict whether a customer will subscribe to a term deposit at a bank. The project involves performing Exploratory Data Analysis (EDA) and implementing various machine learning models to identify key factors influencing subscription behavior.
+**Bank Term Deposit Prediction** is a project focused on building a machine learning model to predict whether a customer will subscribe to a term deposit at a bank. The project involves performing Exploratory Data Analysis (EDA) and implementing various machine learning models to identify key factors influencing subscription behavior.
 
 ## Features
 - Comprehensive Exploratory Data Analysis (EDA) with insights into key features.
 - Implementation of multiple models, including Logistic Regression, kNN, Decision Trees, Random Forest, and Gradient Boosting.
-- Hyperparameter optimization using Grid Search and Bayesian Optimization (`Hyperopt`).
+- Hyperparameter optimization using Grid Search and Bayesian Optimization (Hyperopt).
 - Decision threshold adjustments to enhance model performance.
 - Comparative analysis to identify the best-performing model.
 
