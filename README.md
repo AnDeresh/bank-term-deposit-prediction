@@ -97,7 +97,7 @@ The best model obtained from the experimentation is the `Gradient Boosting` mode
 
 [See the full table here](results/model_results.md)
 
-##Visualizations
+## Visualizations
 - Feature importance charts are available in the notebook.
 - ROC curves for each model.
 - Confusion matrices to evaluate model performance.
