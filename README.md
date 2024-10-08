@@ -12,6 +12,7 @@
 
 ## Project Structure
 
+```
 ├── data/
 │ ├── processed/ # Processed data after transformations
 │ │ └── processed_data.csv
@@ -30,6 +31,7 @@
 ├── requirements.txt # List of required dependencies
 ├── README.md # Project README file
 └── .gitignore # Git ignore file
+```
 
 ## Getting Started
 
