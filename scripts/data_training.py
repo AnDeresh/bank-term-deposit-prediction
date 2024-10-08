@@ -107,4 +107,3 @@ def update_comments(results_table: pd.DataFrame, model_name: str, comment: Optio
     results_table.loc[results_table['Model'] == model_name, 'Comments'] = comment
 
     return results_table
-

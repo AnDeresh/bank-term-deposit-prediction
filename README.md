@@ -12,22 +12,23 @@
 
 ## Project Structure
 
-├── data/ │ 
-├── processed/ # Processed data after transformations 
-│ │ └── processed_data.csv 
-│ ├── raw/ # Original raw data files 
-│ │ └── bank-full.csv 
-├── results/ # Model results and performance 
-│ ├── model_results.csv # CSV file containing model performance metrics 
-│ ├── model_results.md # Summary of the model results 
-│ └── model_results.png # Visual representation of model results 
-├── scripts/ # Script files for data processing and model training 
-│ ├── pycache/ # Cached files 
-│ ├── init.py 
-│ ├── data_processing.py # Script for data preprocessing and feature engineering 
-│ └── data_training.py # Script for training various models ├── EDA_and_Modeling_Bank_Data.ipynb # Jupyter notebook for EDA and model comparison 
-├── requirements.txt # List of required dependencies 
-├── README.md # Project README file 
+├── data/
+│ ├── processed/ # Processed data after transformations
+│ │ └── processed_data.csv
+│ └── raw/ # Original raw data files
+│ └── bank-full.csv
+├── results/ # Model results and performance
+│ ├── model_results.csv # CSV file containing model performance metrics
+│ ├── model_results.md # Summary of the model results
+│ └── model_results.png # Visual representation of model results
+├── scripts/ # Script files for data processing and model training
+│ ├── pycache/ # Cached files
+│ ├── init.py
+│ ├── data_processing.py # Script for data preprocessing and feature engineering
+│ └── data_training.py # Script for training various models
+├── EDA_and_Modeling_Bank_Data.ipynb # Jupyter notebook for EDA and model comparison
+├── requirements.txt # List of required dependencies
+├── README.md # Project README file
 └── .gitignore # Git ignore file
 
 ## Getting Started
