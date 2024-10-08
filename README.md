@@ -2,13 +2,13 @@
 
 <table>
     <tr>
-        <td>Model</td>
-        <td>Hyperparameters</td>
-        <td>F1 Score (Train)</td>
-        <td>F1 Score (Test)</td>
-        <td>ROC AUC Score</td>
-        <td>Threshold</td>
-        <td>Comments</td>
+        <td><strong>Model</strong></td>
+        <td style="width: 150px;"><strong>Hyperparameters</strong></td>
+        <td><strong>F1 Score (Train)</strong></td>
+        <td><strong>F1 Score (Test)</strong></td>
+        <td><strong>ROC AUC Score</strong></td>
+        <td><strong>Threshold</strong></td>
+        <td style="width: 500px;"><strong>Comments</strong></td>
     </tr>
     <tr>
         <td>Logistic Regression</td>
