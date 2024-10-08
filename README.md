@@ -1,17 +1,28 @@
 ## Model Training Results
 
 <table>
-    <tr>
-        <td style="width: 150px;"><strong>Model</strong></td>
-        <td style="width: 200px;"><strong>Hyperparameters</strong></td>
-        <td style="width: 150px;"><strong>F1 Score (Train)</strong></td>
-        <td style="width: 150px;"><strong>F1 Score (Test)</strong></td>
-        <td style="width: 150px;"><strong>ROC AUC Score</strong></td>
-        <td style="width: 150px;"><strong>Threshold</strong></td>
-        <td style="width: 500px;"><strong>Comments</strong></td>
-    </tr>
-    <tr>
-        <td>Logistic Regression</td>
+  <!-- Встановлення ширини кожного стовпця за допомогою <colgroup> -->
+  <colgroup>
+    <col style="width: 100px;">
+    <col style="width: 200px;">
+    <col style="width: 100px;">
+    <col style="width: 100px;">
+    <col style="width: 100px;">
+    <col style="width: 100px;">
+    <col style="width: 400px;">
+  </colgroup>
+  
+  <tr>
+    <th>Model</th>
+    <th>Hyperparameters</th>
+    <th>F1 Score (Train)</th>
+    <th>F1 Score (Test)</th>
+    <th>ROC AUC Score</th>
+    <th>Threshold</th>
+    <th>Comments</th>
+  </tr>
+  <tr>
+    <td>Logistic Regression</td>
         <td>solver=liblinear, random_state=29</td>
         <td>0.42</td>
         <td>0.44</td>
