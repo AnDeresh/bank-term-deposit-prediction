@@ -2,12 +2,12 @@
 
 <table>
     <tr>
-        <td><strong>Model</strong></td>
-        <td style="width: 150px;"><strong>Hyperparameters</strong></td>
-        <td><strong>F1 Score (Train)</strong></td>
-        <td><strong>F1 Score (Test)</strong></td>
-        <td><strong>ROC AUC Score</strong></td>
-        <td><strong>Threshold</strong></td>
+        <td style="width: 150px;"><strong>Model</strong></td>
+        <td style="width: 200px;"><strong>Hyperparameters</strong></td>
+        <td style="width: 150px;"><strong>F1 Score (Train)</strong></td>
+        <td style="width: 150px;"><strong>F1 Score (Test)</strong></td>
+        <td style="width: 150px;"><strong>ROC AUC Score</strong></td>
+        <td style="width: 150px;"><strong>Threshold</strong></td>
         <td style="width: 500px;"><strong>Comments</strong></td>
     </tr>
     <tr>
